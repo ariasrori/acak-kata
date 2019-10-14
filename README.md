@@ -1,1 +1,3 @@
-# acak-kata
+# Acak Kata
+
+Menebak sebuah kata yang telah teracak
