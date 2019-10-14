@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570959990 source:/media/ari/Data/Kuliah/Semester 5/Game Programming/tebak kata/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1570934790 source:g:\game programming\tugas\tebak kata\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
